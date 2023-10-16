@@ -14,7 +14,7 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <br/>
 
 
-<img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Most Used Tech Stack & Tools">
+<img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-8A2BE2?style=for-the-badge&color=white" alt="Most Used Tech Stack & Tools">
 
 
 
