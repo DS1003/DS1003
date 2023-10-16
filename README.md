@@ -14,7 +14,7 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <br/>
 
 
-<span class="inline-block px-2 py-1 bg-purple-800 text-white rounded font-bold">MOST USED TECH STACK & TOOLS</span>
+<span class="inline-block px-2 py-1 bg-purple-800 text-purple-800 rounded font-bold">MOST USED TECH STACK & TOOLS</span>
 
 
 
