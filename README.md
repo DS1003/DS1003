@@ -14,25 +14,8 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <br/>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .badge {
-    display: inline-block;
-    padding: 5px 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #21618C;
-    color: #fff;
-    font-weight: bold;
-  }
-</style>
-</head>
-<body>
-<div class="badge">MOST USED TECH STACK & TOOLS</div>
-</body>
-</html>
+<img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-21618C?style=for-the-badge" alt="Most Used Tech Stack & Tools">
+
 
 
 <div align="center">
