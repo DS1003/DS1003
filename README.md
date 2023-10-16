@@ -14,7 +14,26 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <br/>
 
 
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .badge {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #21618C;
+    color: #fff;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<div class="badge">MOST USED TECH STACK & TOOLS</div>
+</body>
+</html>
+
 
 <div align="center">
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
@@ -22,14 +41,10 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/reactivex.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/pwa.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
