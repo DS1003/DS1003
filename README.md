@@ -10,6 +10,7 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 - 🔭 I’m currently working on a Mobile App for delevery like an Uber app with more Features
 - 🌱 I’m currently learning AI
 - 😄 Pronouns: He/Him
+- 😅 Fun Fact: Octobre 17th is my Burthday🎉🎁 (and it's today that i push this update😂)
 
 <br/>
 
