@@ -41,9 +41,8 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/netlify.svg"/>
+
 <img width="40" src="https://cdn.svgporn.com/logos/heroku-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
 <img width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
@@ -51,15 +50,12 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/sass.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/karma.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/protactor.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/jest.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/webstorm.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
+
 <img width="40" src="https://cdn.svgporn.com/logos/codersrank.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/figma.svg"/>
