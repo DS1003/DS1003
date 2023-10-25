@@ -20,7 +20,6 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 
 
 <div align="center">
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
 
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
@@ -32,7 +31,7 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
+
 <img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
@@ -42,16 +41,11 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
 <img width="40" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/heroku-icon.svg"/>
-
 <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
 <img width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/jest.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/webstorm.svg"/>
