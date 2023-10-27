@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## i'm Seydina Mouhammad Diop
+## i'm Seydina Mouhammad Diop (SMD)
 
 Passionate, I'm a self-taught developer eager to learn new skills and knowledge.🚀💻
 Rigorous and dedicated, I'm constantly throwing myself into new projects to explore different languages and technologies.🔥🚀✨
