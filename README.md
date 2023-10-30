@@ -4,7 +4,7 @@
 
 Passionate, I'm a self-taught developer eager to learn new skills and knowledge.🚀💻
 Rigorous and dedicated, I'm constantly throwing myself into new projects to explore different languages and technologies.🔥🚀✨
-I spend my time on Nuxt, Next, TypesScript, Python, .Net, Docker,...
+I spend my time on Nuxt, Next, TypesScript, Python, .Net, Figma,...
 
 
 - 🔭 I’m currently working on a Mobile App for delevery like an Uber app with more Features
