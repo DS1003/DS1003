@@ -28,11 +28,7 @@ I spend my time on Nuxt, Next, TypesScript, Python, .Net, Figma,...
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/dotnet.svg"/>
