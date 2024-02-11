@@ -4,18 +4,18 @@
 
 Passionate, I'm a self-taught developer eager to learn new skills and knowledge.🚀💻
 Rigorous and dedicated, I'm constantly throwing myself into new projects to explore different languages and technologies.🔥🚀✨
-I spend my time on Nuxt, Next, TypesScript, Python, .Net, Figma,...
+I spend my time on Nuxt, TypeScript, Python, .Net, Figma,...
 
 
 - 🔭 I’m currently working on a Mobile App for delevery like an Uber app with more Features
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning new technologies
 - 😄 Pronouns: He/Him
 - 😅 Fun Fact: Octobre 17th is my Burthday🎉🎁 (and it's today that i push this update😂)
 
 <br/>
 
 
-<img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-FF69B4?style=for-the-badge&logo=github&logoColor=pirple" alt="Most Used Tech Stack & Tools">
+<img align="center" src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-FF69B4?style=for-the-badge&logo=github&logoColor=pirple" alt="Most Used Tech Stack & Tools">
 
 
 
