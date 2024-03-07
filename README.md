@@ -2,7 +2,7 @@
 
 ## i'm Seydina Mouhammad Diop
 
-## My Sonatel Academy's Repository
+## Sonatel Academy's learner 
 
 Passionate, I'm a self-taught developer eager to learn new skills and knowledge.🚀💻
 Rigorous and dedicated, I'm constantly throwing myself into new projects to explore different languages and technologies.🔥🚀✨
