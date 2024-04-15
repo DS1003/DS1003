@@ -16,7 +16,7 @@ I spend my time on Documentation, C & Algo, Html & Css,...
 
 <br/>
 
-
+<div align="center">
 <img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20%26%20TOOLS-FF69B4?style=for-the-badge&logo=github&logoColor=pirple" alt="Most Used Tech Stack & Tools">
 
 
