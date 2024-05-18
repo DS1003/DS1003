@@ -29,7 +29,7 @@ I spend my time on Documentation, C & Algo, Html & Css,...
 <img width="40" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/linux.svg"/>
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
-<img width="40" src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"/>
+<img width="40" src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/Css.svg"/>
 
 
