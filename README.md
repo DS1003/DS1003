@@ -33,9 +33,8 @@ I spend my time on Documentation, C & Algo, Html & Css,...
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
 <img width="40" src="https://camo.githubusercontent.com/ea5259d80ab25b1c8503c02988914a77793e5a9a4ae17fa323ff73365446a488/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f776f726470726573732d69636f6e2e737667"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+<img width="40" src="https://camo.githubusercontent.com/581002fd9eaf5806fc757d20d3e3981503b053549a17152cde753626e99fb536/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667"/>
+
 <!--
 **DS1003/DS1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
