@@ -27,12 +27,15 @@ I spend my time on Documentation, C & Algo, Html & Css,...
 
 <img width="40" src="https://cdn.svgporn.com/logos/figma.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/terminal.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/linux.svg"/>
+<img width="40" src="https://camo.githubusercontent.com/947129b878be305615187fcb938d0658ae8780b287f1867175972bd45a933338/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7068702e737667"/>
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
-
+<img width="40" src="https://camo.githubusercontent.com/ea5259d80ab25b1c8503c02988914a77793e5a9a4ae17fa323ff73365446a488/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f776f726470726573732d69636f6e2e737667"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 <!--
 **DS1003/DS1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
