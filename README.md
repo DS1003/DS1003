@@ -31,6 +31,9 @@ I spend my time on Documentation, C & Algo, Html & Css,...
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png"/>
+
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 <img width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png"/>
