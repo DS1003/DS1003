@@ -2,7 +2,7 @@
 
 ## I'm Seydina Mouhammad Diop
 
-### <img width="40" src="https://reussirbusiness.com/wp-content/uploads/2017/11/Logo-Sonatel-Academy-480_1-1.png"/> Sonatel Academy's learner | 💻 Passionate Developer | 🚀 Continuous Learner
+### FullStack Developer 🚀🌿💻 • Lead UI/UX Designer 🌐🔵 • DesignOps Advocate 🎨⚙️ • MERN Stack 🚀 • DevSecOps Enthusiast 🔐🛡️
 
 ---
 
